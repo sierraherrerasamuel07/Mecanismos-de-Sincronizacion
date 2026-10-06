@@ -19,4 +19,4 @@ Requiere JDK 17 o superior.
     java Main          # menú interactivo
     java Main 5        # ejecuta directamente la opción 5
 
-Nota: la opción 1 es no determinista; a veces el saldo coincide por azar y a veces se pierden depósitos.
+
